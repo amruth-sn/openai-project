@@ -22,13 +22,17 @@
   </head>
   <body>
     <div class="container">
-      <h1 class="mt-5">Online YouTube Video Script Writing Tool</h1>
+      <h1 class="mt-5">YouTube Video Script Writing Tool</h1>
 
       <p>
-        Using OpenAI, this tool will allow you to generate viral YouTube 
+        This tool will allow you to generate viral YouTube 
         video titles, a professional script, an introduction, and an outro,
         fully functioning using OpenAI. 
       </p>
+      <!-- <br /> -->
+      <p>By Amruth Niranjan, using the OpenAI API.</p>
+      <br />
+      <br />
 
       <div class="row">
         <div class="col-lg-6">
@@ -83,38 +87,38 @@
           </form>
         </div>
 
-        <div class="col-lg-6">{{blogSectionIdeas|safe}}</div>
+        <div class="col-lg-6">{{videoScript|safe}}</div>
       </div>
 
       <br />
       <hr />
       <br />
 
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-lg-6">
           <form class="" action="/" method="post">
             <div class="mb-3">
-              <label for="blogExpander" class="form-label"
+              <label for="videoScript" class="form-label"
                 >Enter the Blog section title you want to expand</label
               >
               <input
                 type="text"
                 class="form-control"
-                id="blogExpander"
-                name="blogExpander"
-                placeholder="Enter the blog section title"
+                id="videoScript"
+                name="videoScript"
+                placeholder="Paste in the script here"
               />
             </div>
             <input type="hidden" name="form3" value="form3" />
 
             <button type="submit" class="btn btn-primary">
-              Expand on the title
+              Expand on the script
             </button>
           </form>
         </div>
 
-        <div class="col-lg-6">{{blogExpanded|safe}}</div>
-      </div>
+        <div class="col-lg-6">{{videoScript|safe}}</div>
+      </div> -->
     </div>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

@@ -23,10 +23,10 @@ def index():
             vidT = script.generateVideoScripts(prompt)
             videoScript = vidT.replace('\n', '<br>')
         
-        if 'form3' in request.form:
-            prompt = request.form['videoIntroOutro']
-            vidT = script.videoExpander(prompt)
-            videoInOut = vidT.replace('\n', '<br>')
+        # if 'form3' in request.form:
+        #     prompt = request.form['videoExtra']
+        #     vidT = script.videoExpander(prompt)
+        #     videoExtra = vidT.replace('\n', '<br>')
     
     return render_template('index.html', **locals())
 
