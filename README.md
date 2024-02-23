@@ -7,3 +7,10 @@ However, if you're still struggling to come up with a storyboard, a script, or s
 Thank you!
 
 P.S: Visit my website! https://www.amruthn.com/
+
+![image](https://github.com/amruth-sn/openai-project/assets/106125855/db27fdd1-3178-4e8b-80bb-e98f38690a68)
+
+
+**EDIT**:
+
+As of February 2024, I have since taken down the OpenAI Scriptwriting Tool in order to conserve costs from Heroku and the OpenAI API. I look forward to making bigger and more scalable projects in the future! :)
