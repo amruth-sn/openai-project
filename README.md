@@ -8,7 +8,8 @@ Thank you!
 
 P.S: Visit my website! https://www.amruthn.com/
 
-![image](https://github.com/amruth-sn/openai-project/assets/106125855/db27fdd1-3178-4e8b-80bb-e98f38690a68)
+![image](https://github.com/amruth-sn/openai-project/assets/106125855/dac6dc9c-4fb9-4814-9015-82f084fcc65d)
+
 
 
 **EDIT**:
