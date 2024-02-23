@@ -1,4 +1,4 @@
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = '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'
 
 class Config(object):
     TESTING = False
